@@ -1,0 +1,14 @@
+C:\Users\МSI\source\repos\5.8\5.8\bin\Debug\5.8.exe.config
+C:\Users\МSI\source\repos\5.8\5.8\bin\Debug\5.8.exe
+C:\Users\МSI\source\repos\5.8\5.8\bin\Debug\5.8.pdb
+C:\Users\МSI\source\repos\5.8\5.8\obj\Debug\5.8.csproj.AssemblyReference.cache
+C:\Users\МSI\source\repos\5.8\5.8\obj\Debug\5.8.csproj.CoreCompileInputs.cache
+C:\Users\МSI\source\repos\5.8\5.8\obj\Debug\5.8.exe
+C:\Users\МSI\source\repos\5.8\5.8\obj\Debug\5.8.pdb
+C:\Users\МSI\Desktop\SF\5.8\5.8\bin\Debug\5.8.exe.config
+C:\Users\МSI\Desktop\SF\5.8\5.8\bin\Debug\5.8.exe
+C:\Users\МSI\Desktop\SF\5.8\5.8\bin\Debug\5.8.pdb
+C:\Users\МSI\Desktop\SF\5.8\5.8\obj\Debug\5.8.csproj.AssemblyReference.cache
+C:\Users\МSI\Desktop\SF\5.8\5.8\obj\Debug\5.8.csproj.CoreCompileInputs.cache
+C:\Users\МSI\Desktop\SF\5.8\5.8\obj\Debug\5.8.exe
+C:\Users\МSI\Desktop\SF\5.8\5.8\obj\Debug\5.8.pdb
